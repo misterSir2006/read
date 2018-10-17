@@ -1,5 +1,4 @@
 # Why am I here
-read me
 
 My name is misterSir and I'm keen on coding.
  I've discovered it about a year ago and for now I've got something that I maybe can call
